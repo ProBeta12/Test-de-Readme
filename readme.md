@@ -2,7 +2,7 @@
 
 ## Conheça mais sobre mim ^~^
 
-Opa ola, meu nome é Francisco e Sou um universitario na Ufopa-Cori 
+Opa ola, meu nome é Francisco Marconi e Sou um universitario na Ufopa-Cori 
 
 
 <div style="display: flex;justify-content: center;width: 500px;">
